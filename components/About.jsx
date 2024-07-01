@@ -12,7 +12,7 @@ const About = () => {
         Welcome to the biggest Network of Food Ordering and Delivery
       </p>
       <div className="flex flex-wrap gap-8">
-        <Food img={'Pizza.png'} title={'Pizza'} />
+        <Food img={'pizza.png'} title={'Pizza'} />
         <Food img={'burger.png'} title={'Burger'} />
         <Food img={'sushi.png'} title={'Sushi'} />
         {/* <div className=" bg-[#FAFAFA] inline-block p-5 rounded-2xl place-content-end">
